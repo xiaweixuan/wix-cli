@@ -1,0 +1,22 @@
+{
+  "name": "wix-cli",
+  "version": "0.0.1",
+  "description": "create a react project",
+  "bin": "./bin/shell.js",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "single-line-log": "^1.1.2",
+    "str-format": "^1.0.1",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weixuan xia",
+  "license": "ISC"
+}
